@@ -1,0 +1,33 @@
+Halo, ini adalah program penyelesaian Cryptarithmetic dengan algoritma bruteforce
+program ini dibuat untuk penyelesaian tugas kecil mata kuliah Strategi Algoritma IF2211
+Program ini didesain sedemikian rupa agar pasti menghasilkan solusi, walaupun waktu yang dihabiskan lama
+Jika program tidak mengeluarkan solusi, maka memang tidak ada solusi yang memenuhi untuk soal Cryptarithmetic
+
+Requirements:
+1. Install Python IDLE untuk perangkat anda
+2. Python IDLE ada pada link berikut: https://www.python.org/downloads/
+3. alternatif: ikuti link ini untuk instalasi pada linux: https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
+
+Cara menggunakan program:
+1. Buka folder src
+2. Buka file test
+3. Anda bisa menuliskan soal sendiri atau mengcopy-paste soal dari folder test
+4. pastikan format soal sebagai berikut
+<Operan 1>
+<Operan 2>+
+----
+<Hasil>
+
+dengan semua huruf pada setiap komponen huruf kapital
+
+5. Buka file Tucil_01_Stima.py lewat IDLE
+6. Klik Run dan jalankan program
+7. Tunggu sampai hasil keluar.
+8. Alternatif: program juga dapat dijalankan pada command line
+9. gunakan command: python Tucil_01_Stima.py
+
+
+Penulis: Hizkia Raditya Pratama Roosadi/13519087
+Kontak: 087741451005/ id line: hizkiacanggih  (prefered using LINE)
+
+Terima kasih sudah mau mencobaa
